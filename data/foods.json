@@ -1,0 +1,82 @@
+[
+    {
+        "id" : 11,
+        "cat_id": 1,
+        "name" : "Chicago Pizza",
+        "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwhsh6n2YbnfPMJu9iJcOUhi8rJDwVbmfq-uBo9fYE6WNhJIi7F2Qx1cTOS_vEVG7GPU8&usqp=CAU",
+        "price" : "1200",
+        "description" : ""
+    },
+    {
+        "id" : 12,
+        "cat_id": 1,
+        "name" : "Sicilian Pizza",
+        "img" : "https://w7.pngwing.com/pngs/527/996/png-transparent-california-style-pizza-pizza-margherita-sicilian-pizza-neapolitan-pizza-pizza.png",
+        "price" : "900",
+        "description" : ""
+    },
+    {
+        "id" : 13,
+        "cat_id": 1,
+        "name" : "Greek Pizza",
+        "img" : "https://img.freepik.com/premium-photo/top-view-pepperoni-pizza-with-salami-tomato-cheese-other-ingredients_97889-397.jpg",
+        "price" : "450",
+        "description" : ""
+    },
+    {
+        "id" : 14,
+        "cat_id": 1,
+        "name" : "Detroit Pizza",
+        "img" : "https://img.freepik.com/premium-photo/top-view-pizza-with-ham-bacon-mozzarella-tomatoes-bell-pepper-onions-parsley-black-olives_157927-20051.jpg",
+        "price" : "780",
+        "description" : ""
+    },
+    {
+        "id" : 15,
+        "cat_id": 2,
+        "name" : "Azalea Burger",
+        "img" : "https://www.themealdb.com/images/media/meals/k420tj1585565244.jpg",
+        "price" : "345",
+        "description" : ""
+    },
+    {
+        "id" : 16,
+        "cat_id": 2,
+        "name" : "Imperial Burger",
+        "img" : "https://www.themealdb.com/images/media/meals/k420tj1585565244.jpg",
+        "price" : "565",
+        "description" : ""
+    },
+    {
+        "id" : 17,
+        "cat_id": 2,
+        "name" : "Clover Burger",
+        "img" : "https://www.themealdb.com/images/media/meals/k420tj1585565244.jpg",
+        "price" : "555",
+        "description" : ""
+    },
+    {
+        "id" : 18,
+        "cat_id": 2,
+        "name" : "Flaming Burger",
+        "img" : "https://www.themealdb.com/images/media/meals/k420tj1585565244.jpg",
+        "price" : "666",
+        "description" : ""
+    },
+    {
+        "id" : 19,
+        "cat_id": 3,
+        "name" : "Potato croquettes",
+        "img" : "https://www.themealdb.com/images/media/meals/wuxrtu1483564410.jpg",
+        "price" : "80",
+        "description" : ""
+    },
+    {
+        "id" : 20,
+        "cat_id": 3,
+        "name" : "Dal fry",
+        "img" : "https://i.ibb.co/qr9zRXB/wuxrtu1483564410.jpg",
+        "price" : "45",
+        "description" : ""
+    }
+]
